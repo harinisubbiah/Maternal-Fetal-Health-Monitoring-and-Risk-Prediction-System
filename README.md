@@ -31,7 +31,7 @@ A low-cost maternal–fetal health monitoring system designed for continuous pre
 4. Alerts are generated locally and through the mobile application.
 5. Data can be securely uploaded to the cloud for healthcare providers.
 
-<img width="908" height="587" alt="image" src="https://github.com/user-attachments/assets/f6d8a043-2a37-487f-85d8-73422fc587d0" />
+<img width="1008" height="702" alt="image" src="https://github.com/user-attachments/assets/87b426c0-e81c-4068-b753-93f1ddd0e032" />
 
 
 ## Current Progress
